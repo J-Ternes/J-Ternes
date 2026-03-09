@@ -1,8 +1,8 @@
 <h2 align="center">Jonathan Ternes!</h2>
 
-###
-
-###
+##
+Backend Java | SQL Postgres | Engenheiro de Software
+##
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=J-Ternes.J-Ternes&"  />
