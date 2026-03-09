@@ -1,4 +1,4 @@
-<h2 align="center">Jonathan Ternes!</h2>
+# Jonathan Ternes
 
 ##
 Backend Java | SQL Postgres | Engenheiro de Software
