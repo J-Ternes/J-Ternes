@@ -1,4 +1,4 @@
-<h2 align="center">Olá, seja bem-vindo(a) ao meu Github!</h2>
+<h2 align="center"># Jonathan Ternes!</h2>
 
 ###
 
