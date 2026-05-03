@@ -1,9 +1,16 @@
-# Jonathan Ternes
+ # Jonathan Ternes
 
 ##
 Backend Java | SQL Postgres | Engenheiro de Software
 ##
-Bem vindo ao meu GitHub. Possuo experiências com a linguagem Java e banco de dados relacionais SQL - Postgres 
+Bem vindo ao meu GitHub! 
+
+# 💻 Sobre mim:
+- Formado em Física Médica (UNESP);
+- Cursando Análise e Desenvolvimento de Sistemas
+- Desenvolvedor Java (Spring Boot, Spring Security, Flyway, JWT, JPA, Junit e Mockito);
+- Experiência com SQL (Postgres);
+- Documentação via SWAGGER 
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=J-Ternes.J-Ternes&"  />
