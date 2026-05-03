@@ -22,14 +22,6 @@ Bem vindo ao meu GitHub!
 - Experiência com SQL (Postgres);
 - Documentação via SWAGGER;
 
----
-
-
-<p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Ternes&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-</p>
-
----
 
 
 <div align="center">
