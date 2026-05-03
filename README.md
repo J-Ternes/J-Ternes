@@ -5,7 +5,7 @@ Backend Java | SQL Postgres | Engenheiro de Software
 ##
 Bem vindo ao meu GitHub! 
 
-# 💻 Sobre mim:
+## 💻 Sobre mim:
 - Formado em Física Médica (UNESP);
 - Cursando Análise e Desenvolvimento de Sistemas
 - Desenvolvedor Java (Spring Boot, Spring Security, Flyway, JWT, JPA, Junit e Mockito);
