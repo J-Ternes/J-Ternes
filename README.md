@@ -3,9 +3,9 @@
 
 Bem vindo ao meu GitHub! 
 
-<div align="center">
-  <img src="./hero.svg" width="100%" alt="Banner Animado" />
-</div>
+<p align="center">
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
+</p>
 
 ## 💻 Sobre mim:
 - Formado em Física Médica (UNESP);
@@ -14,6 +14,11 @@ Bem vindo ao meu GitHub!
 - Experiência com SQL (Postgres);
 - Documentação via SWAGGER
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathan-ternes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=J-Ternes.J-Ternes&"  />
