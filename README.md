@@ -7,12 +7,19 @@ Bem vindo ao meu GitHub!
   <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
 </p>
 
-## 💻 Sobre mim:
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathan-ternes/">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+</p>
+##
+ 💻 Sobre mim:
 - Formado em Física Médica (UNESP);
-- Cursando Análise e Desenvolvimento de Sistemas
+- Cursando Análise e Desenvolvimento de Sistemas;
 - Desenvolvedor Java (Spring Boot, Spring Security, Flyway, JWT, JPA, Junit e Mockito);
 - Experiência com SQL (Postgres);
-- Documentação via SWAGGER
+- Documentação via SWAGGER;
+##
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-ternes/">
