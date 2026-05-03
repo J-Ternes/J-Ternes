@@ -1,0 +1,54 @@
+<svg width="800" height="300" viewBox="0 0 800 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .block {
+      fill: #2ea043; /* Verde padrão GitHub */
+      stroke: #1a1a1a;
+      stroke-width: 1;
+      opacity: 0;
+      animation: build 0.6s ease-out forwards;
+    }
+
+    /* Brilho neon no bloco que está "ativo" */
+    .glow {
+      fill: #39ff14;
+      filter: drop-shadow(0 0 8px #39ff14);
+    }
+
+    @keyframes build {
+      0% { opacity: 0; transform: translateY(-20px) scale(0.5); }
+      100% { opacity: 1; transform: translateY(0) scale(1); }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#39ff14;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1b4721;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Grupo de Blocos (Simulando o grid da imagem) -->
+  <g transform="translate(400, 50)">
+    <!-- Linha 1 -->
+    <rect class="block" x="0" y="0" width="38" height="38" rx="4" style="animation-delay: 0.1s; fill: url(#grad);" />
+    <rect class="block" x="42" y="0" width="38" height="38" rx="4" style="animation-delay: 0.2s; fill: url(#grad);" />
+    <rect class="block" x="84" y="0" width="38" height="38" rx="4" style="animation-delay: 0.3s; fill: url(#grad);" />
+    <rect class="block" x="126" y="0" width="38" height="38" rx="4" style="animation-delay: 0.4s; fill: url(#grad);" />
+    
+    <!-- Linha 2 (Com o buraco da imagem) -->
+    <rect class="block" x="126" y="42" width="38" height="38" rx="4" style="animation-delay: 0.5s; fill: url(#grad);" />
+    <rect class="block" x="168" y="42" width="38" height="38" rx="4" style="animation-delay: 0.6s; fill: url(#grad);" />
+    
+    <!-- Linha 3 -->
+    <rect class="block" x="84" y="84" width="38" height="38" rx="4" style="animation-delay: 0.7s; fill: url(#grad);" />
+    <rect class="block" x="126" y="84" width="38" height="38" rx="4" style="animation-delay: 0.8s; fill: url(#grad);" />
+    <rect class="block" x="168" y="84" width="38" height="38" rx="4" style="animation-delay: 0.9s; fill: url(#grad);" />
+
+    <!-- O bloco "voador" isolado que brilha -->
+    <rect class="block glow" x="-100" y="60" width="45" height="45" rx="6" style="animation-delay: 1.2s;" />
+  </g>
+
+  <!-- Texto (Opcional, pode ser feito no README) -->
+  <text x="50" y="80" fill="white" font-family="Arial" font-size="42" font-weight="bold">Hello, I'm [Seu Nome]</text>
+  <text x="50" y="130" fill="#8b949e" font-family="Arial" font-size="20" font-style="italic">Software Engineer • Tech Content Creator</text>
+</svg>
