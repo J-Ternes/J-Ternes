@@ -13,12 +13,23 @@ Bem vindo ao meu GitHub!
   </a>
 </p>
 
+--- 
+
 ## 💻 Sobre mim:
 - Formado em Física Médica (UNESP);
 - Cursando Análise e Desenvolvimento de Sistemas;
 - Desenvolvedor Java (Spring Boot, Spring Security, Flyway, JWT, JPA, Junit e Mockito);
 - Experiência com SQL (Postgres);
 - Documentação via SWAGGER;
+
+---
+
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Ternes&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
 
 
 <div align="center">
