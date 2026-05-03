@@ -3,6 +3,10 @@
 
 Bem vindo ao meu GitHub! 
 
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Banner Animado" />
+</div>
+
 ## 💻 Sobre mim:
 - Formado em Física Médica (UNESP);
 - Cursando Análise e Desenvolvimento de Sistemas
