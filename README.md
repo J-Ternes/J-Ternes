@@ -12,20 +12,14 @@ Bem vindo ao meu GitHub!
     <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
 </p>
-##
- 💻 Sobre mim:
+
+## 💻 Sobre mim:
 - Formado em Física Médica (UNESP);
 - Cursando Análise e Desenvolvimento de Sistemas;
 - Desenvolvedor Java (Spring Boot, Spring Security, Flyway, JWT, JPA, Junit e Mockito);
 - Experiência com SQL (Postgres);
 - Documentação via SWAGGER;
-##
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathan-ternes/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=J-Ternes.J-Ternes&"  />
