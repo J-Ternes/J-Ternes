@@ -4,7 +4,7 @@
 Bem vindo ao meu GitHub! 
 
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Banner Animado" />
+  <img src="./hero.svg" width="100%" alt="Banner Animado" />
 </div>
 
 ## 💻 Sobre mim:
